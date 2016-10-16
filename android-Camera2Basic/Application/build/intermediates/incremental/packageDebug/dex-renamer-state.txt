@@ -1,0 +1,7 @@
+#Sun Oct 16 01:08:35 EDT 2016
+base.0=/Users/San-Javier/Desktop/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42c4347b261e8adb423d56b37b5acbd81ce59339
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/San-Javier/Desktop/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be42ea8073230c0950147bdfa811840956c4f033/classes.dex
+base.1=/Users/San-Javier/Desktop/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be42ea8073230c0950147bdfa811840956c4f033
+file.0=/Users/San-Javier/Desktop/android-Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_42c4347b261e8adb423d56b37b5acbd81ce59339/classes.dex
